@@ -247,7 +247,7 @@
 /* Slider */
 
 .slider{
-    background-image:url(http://www.nicdarkthemes.com/themes/travel/wp/demo/city-tours/wp-content/uploads/sites/5/2018/12/slide-01.jpg) ;
+    background-image:url('../img/slider/slide-01.jpg') ;
     background-repeat: no-repeat;
     background-position: center center;
     width: 100%;
@@ -582,7 +582,7 @@
     width: 33.3333333%;
     height: 660px;
     padding: 0 15px;
-    background-image: url('http://www.nicdarkthemes.com/themes/travel/wp/demo/city-tours/wp-content/uploads/sites/5/2018/11/para-07.jpg?id=1845');
+    background-image: url('../img/travel/para-07.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
